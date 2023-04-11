@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+.header_div{
+    display: flex;
+    justify-content: center;
+    border-bottom:2px solid black ;
+    background-color:antiquewhite;
+}
